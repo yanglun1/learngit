@@ -4,7 +4,3 @@ Git is a distributed version control system.
 3 version
 4 version
 5 version
-<<<<<<< HEAD
-=======
-6 version
->>>>>>> feature
